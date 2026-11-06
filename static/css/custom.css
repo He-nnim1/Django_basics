@@ -1,0 +1,9 @@
+.navbar-brand{
+    color: #d0681e;
+    font-weight: 900;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+    color: #b37d56;
+}
+/*ctrl + shift R*/
